@@ -1,4 +1,5 @@
 # ACE-CSV
-Convert the ACE heliospheric data from 1998 to 2021 to easily manipulate it in order to gain better analysis 
-
-Scatter plot and pair plot experiments using various events
+Cleaning ACE SWEPAM Data from ACE Science Center (https://izw1.caltech.edu/ACE/ASC/index.html) 
+  Including removing metadata, adding headers, and converting files from TXT to CSV to plot for data analysis
+  
+  Includes scatter plot and pair plot experiments using various events
